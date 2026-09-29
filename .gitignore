@@ -1,0 +1,9 @@
+*.exe
+*.test
+server
+app
+app-hotfix
+app-old
+*.log
+.env
+jenkins_home/

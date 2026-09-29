@@ -1,0 +1,12 @@
+.git
+.gitignore
+README.md
+Jenkinsfile
+*.exe
+*.test
+server
+app
+app-hotfix
+app-old
+docs
+jenkins
